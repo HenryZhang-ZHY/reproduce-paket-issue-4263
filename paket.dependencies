@@ -1,3 +1,6 @@
 source https://api.nuget.org/v3/index.json
 
 storage: none
+strategy: min
+
+nuget Microsoft.Data.SqlClient 5.0.1
